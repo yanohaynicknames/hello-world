@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, i like lot fo thing like running, reading and coffee.
+Hi, i like lot of things like running, reading and coffee.
