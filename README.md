@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hi, i like lot fo thing like running, reading and coffee.
